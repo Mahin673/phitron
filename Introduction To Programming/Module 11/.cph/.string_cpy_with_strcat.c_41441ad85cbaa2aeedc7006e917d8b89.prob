@@ -1,0 +1,1 @@
+{"name":"Local: string_cpy_with_strcat","url":"g:\\Phytron\\Introduction To Programming\\Module 11\\string_cpy_with_strcat.c","tests":[{"id":1778351875117,"input":"Cat Bat\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phytron\\Introduction To Programming\\Module 11\\string_cpy_with_strcat.c","group":"local","local":true}

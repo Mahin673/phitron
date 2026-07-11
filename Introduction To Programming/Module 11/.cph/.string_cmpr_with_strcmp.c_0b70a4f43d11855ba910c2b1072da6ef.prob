@@ -1,0 +1,1 @@
+{"name":"Local: string_cmpr_with_strcmp","url":"g:\\Phytron\\Introduction To Programming\\Module 11\\string_cmpr_with_strcmp.c","tests":[{"id":1778354782931,"input":"AB A","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phytron\\Introduction To Programming\\Module 11\\string_cmpr_with_strcmp.c","group":"local","local":true}

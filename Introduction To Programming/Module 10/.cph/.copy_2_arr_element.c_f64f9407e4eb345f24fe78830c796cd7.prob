@@ -1,0 +1,1 @@
+{"name":"Local: copy_2_arr_element","url":"g:\\Phytron\\Introduction To Programming\\Module 10\\copy_2_arr_element.c","tests":[{"id":1778181063001,"input":"5\n10 20 30 40 50\n2\n60 70","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phytron\\Introduction To Programming\\Module 10\\copy_2_arr_element.c","group":"local","local":true}
