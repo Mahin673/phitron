@@ -1,0 +1,21 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main()
+{
+    int n;
+    cin >> n;
+    for (int i = 0; i < n; i++) // O(N)
+    {
+        for (int j = 0; j < n; j++) // O(N)
+        {
+            cout << " Hello" << endl;
+        }
+    }
+    return 0;
+}
+/*
+nested loop ay khane 2 ta tai complixity O(n*n)=O(n^2)
+
+
+
+*/

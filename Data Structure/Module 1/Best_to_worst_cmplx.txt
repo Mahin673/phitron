@@ -1,0 +1,14 @@
+Best to Worst
+For test case : Input 1000
+
+1.Constant:      O(1)
+
+2.Logarithmic:   O(logN)
+
+3.Suare root:    O(sqrt(N))
+
+4.Linear:        O(N)
+
+5.Linearithmic:  O(NlogN)
+
+6.Quadratic:     O(N*N)
