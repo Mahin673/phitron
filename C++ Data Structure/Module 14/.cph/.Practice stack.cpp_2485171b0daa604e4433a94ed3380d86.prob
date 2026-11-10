@@ -1,0 +1,1 @@
+{"name":"Local: Practice stack","url":"g:\\Phytron\\phitron\\C++ Data Structure\\Module 14\\Practice stack.cpp","tests":[{"id":1794111893840,"input":"5\n10 20 30 40 50","output":"50 40 30 20 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Phytron\\phitron\\C++ Data Structure\\Module 14\\Practice stack.cpp","group":"local","local":true}
